@@ -1,0 +1,497 @@
+{
+	"meta": { "theme": "kendall" },
+  "basics": {
+    "name": "Martín Llanos",
+    "label": "Analista de Sistemas Sr.",
+    "picture": "https://es.gravatar.com/userimage/2671192/061d988438b6cfbdb915ac6008ee4772.jpg?size=200",
+    "email": "matinllanos@gmail.com",
+    "phone": "+(54) 3888 549184",
+    "website": "",
+    "summary": "A continuación, pongo a disposición mi hoja de ruta laboral y enumero las diversas empresas donde he tenido la oportunidad de prestar servicios como profesional de sistemas y consultor en finanzas. También describo algunas de las tareas en las que puntualizo experiencia real y campo. He tenido la oportunidad de integrar grupos multidisciplinarios, formar equipos orientados a objetivos y resultados.",
+    "location": {
+      "address": "Av. Rivadavia 4280 8vo B",
+      "postalCode": "C1223ABJ",
+      "city": "Capital Federal",
+      "countryCode": "AR",
+      "region": "CABA"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "martinllanos",
+        "url": "https://www.linkedin.com/in/martin-llanos-43164847"
+      },
+      {
+        "network": "Youtube",
+        "username": "my channel",
+        "url": "https://www.youtube.com/user/martinjavierllanos"
+      },
+      {
+        "network": "Github",
+        "username": "martinllanos",
+        "url": "https://github.com/martinllanos/"
+      },
+      {
+      	"network": "twitter",
+      	"username":"@martinllanosone",
+      	"url":"https://github.com/martinllanosone"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Odoo ERP",
+      "position": "Consultor Odoo Sr.",
+      "website": "http://www.odoo.com/",
+      "startDate": "2015-11-20",
+      "endDate": "2019-03-01",
+      "summary": "A partir de los conocimientos en diferentes sistemas ERP como SAP, JD Edwards, Peoplesoft con licencias prohibitivas para PYMES, pude adentrarme en el ERP open source más importante del mundo, Odoo.  Acompañando a pequeños comercios/mini mercaditos/autoservicios a contar con sistemas para dominar la etapa de compras, stock, venta y facturación/contaduría.",
+      "highlights": [
+        "Facturación electrónica, legislación Argentina.",
+        "Gestión de Ventas en Odoo CRM.",
+        "Administración Funcional de Almacén.",
+        "Cuentas Analíticas.",
+        "Valoración de Inventario/Stock.",
+        "Compras y Adquisiciones en Odoo.",
+        "Implementación de PosBox en Odoo.",
+        "Implementación de Punto de Venta.",
+        "Comanda para restaurantes.",
+        "Implementación de Odoo A-Z."
+      ]
+    },
+    {
+      "company": "COTO CICSA",
+      "position": "Analista de Sistemas Sr.",
+      "website": "http://www.coto.com.ar/",
+      "startDate": "2002-05-06",
+      "endDate": "2015-08-14",
+      "summary": "Esta compañía me proporciono la oportunidad de poder tener recursos para un laboratorio de I+D y acceder a las ultimas tecnologías de software y hardware. De esa manera se pudo realizar múltiples implementaciones con software desarrollado en laboratorio con la ventaja de tener que prescindir de costosas licencias restrictivas para la industria.",
+      "highlights": [
+        "QA Punto de Venta (POS).",
+        "Desarrollo de POS.",
+        "Centralización de Datos de POS.",
+        "Múltiples Medios de Pago en POS.",
+        "Ofertas, promociones y descuentos en POS.",
+        "Encriptación de datos en Tarjetas de créditos.",
+        "BackOffice de venta electrónica Coto Digital.",
+        "Aplicación de ofertas/promociones y descuentos en Coto Digital.",
+        "I+D Google Glass face recognition & realidad aumentada en experiencia de compras.",
+        "Sistemas control de ingresos de personal/visitas en toda la cadena.",
+        "Normas ISO8583 para mensajería sobre X.25.",
+        "Centralización de transacciones de crédito.",
+        "Implementación de sistemas de Fidelización de Clientes.",
+        "Sistema de Productividad del Centro de Distribución.",
+        "Category Manager en góndolas."
+      ]
+    },
+    {
+      "company": "Informática El Corte Ingles",
+      "position": "Analista de Sistemas/Consultor",
+      "website": "https://www.iecisa.com",
+      "startDate": "2000-10-09",
+      "endDate": "2002-03-29",
+      "summary": "Esta compañía me posibilito el ingreso al mundo retail de nivel mundial, brindándome los conocimientos de software de punto de ventas entre otros, sobre múltiples plataformas.",
+      "highlights": [
+        "Control de calidad en software de Punto de Venta.",
+        "Resolución de problemas de Servidores de Centralización.",
+        "Manejo de protocolo de tarjetas de crédito ISO8583.",
+        "Re-ingeniería en procesos de venta.",
+        "Interacción con sistemas de logística y stock."
+      ]
+    },
+    {
+      "company": "Telecom Argentina",
+      "position": "Soporte de Producto",
+      "website": "https://institucional.telecom.com.ar/",
+      "startDate": "1999-12-06",
+      "endDate": "2000-09-08",
+      "summary": "Desde la unidad de negocios Telecom Soluciones y con la experiencia en sistemas corporativos sobre plataformas Unix brindaba soporte a compañías que buscaban una rápida implementación de enlaces de internet.",
+      "highlights": [
+        "Ruteo de enlaces punto a punto.",
+        "Implementación de servidores DNS.",
+        "Administración de Tablas MX para servidores de Mail.",
+        "Servicios a clientes corporativos.",
+        "Soporte a clientes internos Telco-Net."
+      ]
+    },
+    {
+      "company": "Citibank Argentina",
+      "position": "Soporte de Producto",
+      "website": "https://www.citibank.com/icg/sa/latam/argentina/",
+      "startDate": "1999-05-01",
+      "endDate": "1999-12-01",
+      "summary": "A finales de la década del 90 se presentó un problema de incremento de 1 milenio en los timers de computadoras para la cual no todos los sistemas estaban preparados. Más conocido como Problema Y2K había que certificar diferentes sistemas para las compañías de seguros que abalaban enormes activos financieros en los bancos a nivel mundial.",
+      "highlights": [
+        "Despliegue de análisis automatizados sobre redes Novell Netware.",
+        "Pruebas de intrusión sobre las sucursales del banco.",
+        "Preparación del personal de sistemas del banco para la hora 00:00 del año 2000.",
+        "Lugar de Trabajo; Citi Center y Torre Bouchard."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Coop Túpac Amaru",
+      "position": "Teacher",
+      "website": "",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Dictado de clases de Excel, Word a niños y jóvenes de entre 12 y 15 años.",
+      "highlights": [
+        "Awarded 'Colaborador Social'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Deloitte & CO E-Learning",
+      "area": "Normas Internacionales de Información Financiera",
+      "studyType": "Risk Management IRFS Analyst",
+      "startDate": "2017-04-01",
+      "endDate": "2017-07-01",
+      "gpa": "S/Certificar",
+      "courses": [
+        "NIIF 2 Pagos Basados en Acciones",
+        "NIIF 4 Contratos de Seguro",
+        "NIIF 6 Exploración y Evaluación de Recursos Minerales",
+        "NIC 1 Presentación de Estados Financieros",
+        "NIC 7 Estado de Flujos de Efectivo",
+        "NIC 12 Impuesto a las Ganancias",
+        "NIC 16 Propiedades, Planta y Equipo",
+        "NIC 23 Costos por Préstamos",
+        "NIC 29 Información Financiera en Economías Hiperinflacionarias",
+        "NIC 36 Deterioro del Valor de los Activos",
+        "NIC 37 Provisiones, Pasivos Contingentes y Activos Contingentes",
+        "NIC 38 Activos Intangibles"
+      ]
+    },
+    {
+      "institution": "Universidad de Buenos Aires",
+      "area": "Electrónica",
+      "studyType": "Ingenieria",
+      "startDate": "1999-04-01",
+      "endDate": "2004-07-01",
+      "gpa": "4.3",
+      "courses": [
+        "Introducción a la Programación en C",
+        "MPLAB® Microchip Programmer"
+      ]
+    },
+    {
+      "institution": "Informática Tecnología Servicios",
+      "area": "Network Operating Systems",
+      "studyType": "Novell Network Admin - CNA",
+      "startDate": "1999-03-08",
+      "endDate": "1999-04-02",
+      "gpa": "S/Certificar",
+      "courses": []
+    },
+    {
+      "institution": "Informática Tecnología Servicios",
+      "area": "Collaborative Software",
+      "studyType": "eDirectory Admin - CNE",
+      "startDate": "1999-04-05",
+      "endDate": "1999-04-30",
+      "gpa": "S/Certificar",
+      "courses": []
+    },
+    {
+      "institution": "EXO Training Center",
+      "area": "Platform IT",
+      "studyType": "MCSE",
+      "startDate": "2000-03-06",
+      "endDate": "2000-11-24",
+      "gpa": "S/Certificar",
+      "courses": []
+    },
+    {
+      "institution": "iTCollege",
+      "area": "Programación",
+      "studyType": "SL-110-SE6 - Fundamentals of the Java Programming",
+      "startDate": "2003-04-07",
+      "endDate": "2003-04-28",
+      "gpa": "Java Programmer SE",
+      "courses": []
+    },
+    {
+      "institution": "iTCollege",
+      "area": "Programación",
+      "studyType": "SL-275-SE6 - Java Programming Language",
+      "startDate": "2003-05-05",
+      "endDate": "2003-06-02",
+      "gpa": "Java Programmer",
+      "courses": []
+    },
+    {
+      "institution": "iTCollege",
+      "area": "Programación",
+      "studyType": "310-080 - J2EE Web Component",
+      "startDate": "2003-08-04",
+      "endDate": "2003-08-25",
+      "gpa": "J2EE Web Component Developer",
+      "courses": []
+    },
+    {
+      "institution": "iTCollege",
+      "area": "Administración de Base de Datos",
+      "studyType": "1Z0-007 - OCA Oracle University",
+      "startDate": "2005-04-06",
+      "endDate": "2005-08-18",
+      "gpa": "OCA",
+      "courses": []
+    },
+    {
+      "institution": "iTCollege",
+      "area": "Administración de Base de Datos",
+      "studyType": "1Z0-032 - OCP Oracle University",
+      "startDate": "2005-06-01",
+      "endDate": "2005-07-20",
+      "gpa": "OCP",
+      "courses": []
+    },
+    {
+      "institution": "Internal training",
+      "area": "Programación",
+      "studyType": "SAP ABAP/BASIC",
+      "startDate": "2006-07-12",
+      "endDate": "2006-08-22",
+      "gpa": "ABAP Programmer",
+      "courses": []
+    },
+    {
+      "institution": "Internal training",
+      "area": "Programación",
+      "studyType": "SAP FI Fundamentals",
+      "startDate": "2006-08-23",
+      "endDate": "2006-09-27",
+      "gpa": "Report Ad Hoc, Query's",
+      "courses": []
+    },
+    {
+      "institution": "ISEC-Global",
+      "area": "PenTest",
+      "studyType": "Ethical Hacking - Análisis de vulnerabilidades",
+      "startDate": "2008-04-07",
+      "endDate": "2008-12-26",
+      "gpa": "Penetration Testing",
+      "courses": []
+    },
+    {
+      "institution": "ISEC-Global",
+      "area": "Normalization",
+      "studyType": "ISO/IEC 27001 - Seguridad de la Información",
+      "startDate": "2009-09-08",
+      "endDate": "2009-09-29",
+      "gpa": "Aseguramiento de la Información",
+      "courses": []
+    },
+    {
+      "institution": "Internal training",
+      "area": "Programación",
+      "studyType": "Oracle Forms 10g - Reports Applets",
+      "startDate": "2010-09-08",
+      "endDate": "2010-09-29",
+      "gpa": "Oracle Forms & Report",
+      "courses": []
+    },
+    {
+      "institution": "Odoo Education Program",
+      "area": "ERP Funcional",
+      "studyType": "Implementación & Recovery",
+      "startDate": "2010-11-06",
+      "endDate": "2010-11-30",
+      "gpa": "Odoo Professional",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Unreal Tournament 99 Contest",
+      "date": "2000-07-16",
+      "awarder": "1th",
+      "summary": "Free 4 All, Capture Flag."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Mastering Redmine",
+      "publisher": "Packt",
+      "releaseDate": "2013-01",
+      "website": "https://www.packtpub.com/application-development/mastering-redmine",
+      "summary": "Redmine is an open source gem for project management, and this book shows you how to exploit its features to the max. Written as a practical tutorial, it’s also the perfect reference guide to have by your side."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Continuous integration",
+      "level": "Intermediate",
+      "keywords": [
+        "Hutson",
+        "Jenkins",
+        "Travis"
+      ]
+    },
+    {
+      "name": "Data Base",
+      "level": "Master",
+      "keywords": [
+        "Oracle DBA",
+        "MS SQL Server",
+        "MongoDB",
+        "Postgres",
+        "Mysql",
+        "Redis",
+        "PL/SQL",
+        "SQL",
+        "Stored Procedures",
+        "NoSQL"
+      ]
+    },
+    {
+      "name": "Shell Scripting ",
+      "level": "Master",
+      "keywords": [
+        "Bash",
+        "Korn Shell",
+        "Perl",
+        "AWK",
+        "Sed",
+        "CURL"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": [
+        "EJB3",
+        "Hibernate",
+        "Webservices",
+        "Jboss",
+        "Servlets",
+        "JAX-RPC",
+        "JSP",
+        "maven",
+        "J2SE Stand-alone",
+        "WebLogic"
+      ]
+    },
+    {
+      "name": "Javascript",
+      "level": "Intermediate",
+      "keywords": [
+        "jQuery",
+        "ExtJS",
+        "Sencha",
+        "Node.js",
+        "JSON"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": [
+        "SOAP with zeep",
+        "Debug with ptvsd",
+        "Scaffolding",
+        "venv",
+        "Scripting"
+      ]
+    },
+    {
+      "name": "Unix",
+      "level": "Master",
+      "keywords": [
+        "Linux",
+        "AIX",
+        "Solaris"
+      ]
+    },
+    {
+      "name": "C++",
+      "level": "Intermediate",
+      "keywords": [
+        "OOP",
+        "GCC",
+        "Debbug",
+        "DDD"
+      ]
+    },
+    {
+      "name": ".NET framework",
+      "level": "Intermediate",
+      "keywords": [
+        "MVC",
+        "C#"
+      ]
+    },
+    {
+      "name": "SCM",
+      "level": "Master",
+      "keywords": [
+        "Git",
+        "SVN",
+        "CVS",
+        "SourceSafe"
+      ]
+    },
+    {
+      "name": "Trackers",
+      "level": "Master",
+      "keywords": [
+        "Redmine",
+        "Bugzilla"
+      ]
+    },
+    {
+      "name": "Daemon",
+      "level": "Master",
+      "keywords": [
+        "OpenLDAP",
+        "Httpd",
+        "nginx"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Beginner"
+    },
+    {
+      "language": "Chinese - A1-A2",
+      "fluency": "Beginner"
+    },
+    {
+      "language": "Russian - A1-A2",
+      "fluency": "Beginner"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Family",
+      "keywords": [
+        "Wife",
+        "Sons"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Marcelo Feldman, DBA",
+      "reference": "Martin Es una excelente persona y profesional que se ha desempeñado exitosamente en la implementacion de los sistemas del Corte Ingles en la empresa Coto. Ha desarrollado soluciones de primer nivel en todos los desarrollos que les fue solicitado."
+    }
+  ]
+}
