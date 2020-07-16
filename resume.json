@@ -35,6 +35,11 @@
       	"network": "twitter",
       	"username":"@martinllanosone",
       	"url":"https://github.com/martinllanosone"
+      },
+      {
+        "network": "telegram",
+        "username":"@martinllanos",
+        "url":"https://t.me/martinllanos"
       }
     ]
   },
