@@ -45,14 +45,44 @@
   },
   "work": [
     {
-      "company": "Odoo ERP",
+      "company": "Tecnopro",
       "position": "Consultor Odoo Sr.",
-      "website": "http://www.odoo.com/",
+      "website": "https://www.tecnopro.com.py",
+      "startDate": "2019-11-04",
+      "endDate": "2020-10-10",
+      "summary": "Nos sumamos a Tecnopro e inmediatamente el roadmap de la localización de Paraguay se puso en marcha. Con tiempos muy acotados, se trabajó contra reloj para luego, 3 meses más adelante contar con la primera release. Logrando estabilizar la localización para junio del 2020 en odoo v13 enterprise sobre odoo.sh.",
+      "highlights": [
+        "Depligue rapidos sobre odoo.sh.",
+        "Localización de Paraguay",
+        "Implementación en industria de manufactura y distribusión."
+      ]
+    },
+    {
+      "company": "QSolutions SA",
+      "position": "Consultor Odoo Sr.",
+      "website": "https://www.quilsoft.com",
+      "startDate": "2020-01-14",
+      "endDate": "2020-10-10",
+      "summary": "Quilsoft/QSolutions SA es el partner Odoo con mayor proyección de crecimiento en Argentina. Dedicado a soluciones a medida para toda la industria, principalmente en logística.",
+      "highlights": [
+        "Depligue rapidos sobre odoo.sh.",
+        "Website interconectado con Mercadolibre.",
+        "Sistemas de gestión de la indutria de recuperados (reciclaje).",
+        "Gestión de maquinaria pesada en la industria portuaria.",
+        "Administración Funcional de Almacén."
+      ]
+    },
+    {
+      "company": "Consultor Independiente",
+      "position": "Consultor Odoo Sr.",
+      "website": "https://www.crumges.com",
       "startDate": "2015-11-20",
-      "endDate": "2019-03-01",
+      "endDate": "2020-03-01",
       "summary": "A partir de los conocimientos en diferentes sistemas ERP como SAP, JD Edwards, Peoplesoft con licencias prohibitivas para PYMES, pude adentrarme en el ERP open source más importante del mundo, Odoo.  Acompañando a pequeños comercios/mini mercaditos/autoservicios a contar con sistemas para dominar la etapa de compras, stock, venta y facturación/contaduría.",
       "highlights": [
         "Facturación electrónica, legislación Argentina.",
+        "Manufactura y lineas de producción",
+        "Marketing Automatión & Survey",
         "Gestión de Ventas en Odoo CRM.",
         "Administración Funcional de Almacén.",
         "Cuentas Analíticas.",
